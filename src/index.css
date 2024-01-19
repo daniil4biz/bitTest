@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+.canvasjs-chart-credit {
+  display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .user__profile {
+    display: none !important;
+  }
+  .company__wrapper {
+    margin-left: auto !important;
+  }
+}
